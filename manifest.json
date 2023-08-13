@@ -1,0 +1,25 @@
+{
+  "name": "TangPlug-in",
+  "description": "阿威十八式之冈本1.0",
+  "version": "1.0",
+  "manifest_version": 3,
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "16": "images/TB001.png",
+    "32": "images/TB001.png",
+    "48": "images/TB001.png",
+    "128": "images/TB001.png"
+  },
+  "permissions": ["storage", "activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.amazon.com/*"],
+      "js": ["content-script.js"]
+    }
+  ]
+}

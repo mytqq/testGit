@@ -1,0 +1,58 @@
+('D:\\tools\\VS Code\\GZ\\CJT16\\service\\build\\amazonp\\amazonp.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True},
+ [('PYZ-00.pyz',
+   'D:\\tools\\VS Code\\GZ\\CJT16\\service\\build\\amazonp\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'D:\\tools\\VS '
+   'Code\\GZ\\CJT16\\service\\build\\amazonp\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'D:\\tools\\VS '
+   'Code\\GZ\\CJT16\\service\\build\\amazonp\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'D:\\tools\\VS '
+   'Code\\GZ\\CJT16\\service\\build\\amazonp\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'D:\\tools\\VS '
+   'Code\\GZ\\CJT16\\service\\build\\amazonp\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'D:\\tools\\VS '
+   'Code\\GZ\\CJT16\\service\\build\\amazonp\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'D:\\tools\\VS '
+   'Code\\GZ\\CJT16\\venv_test\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'D:\\tools\\VS '
+   'Code\\GZ\\CJT16\\venv_test\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'D:\\tools\\VS '
+   'Code\\GZ\\CJT16\\venv_test\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'D:\\tools\\VS '
+   'Code\\GZ\\CJT16\\venv_test\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('amazonp',
+   'D:\\tools\\VS Code\\GZ\\CJT16\\service\\amazonp.py',
+   'PYSOURCE')],
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
