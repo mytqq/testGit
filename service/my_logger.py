@@ -29,3 +29,4 @@ def setup_logger(log_file):
 
 def log_error(logger, error_message):
     logger.error(error_message)
+    
